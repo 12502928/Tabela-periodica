@@ -1,0 +1,175 @@
+*{margin: 0;}
+.alingtable{
+    text-align: center;
+    margin: 0 auto;
+}
+
+td{
+    width: 5%;
+   height: 7vh;
+}
+
+h1{
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+
+}
+
+span{
+    text-align: left;
+
+}
+
+
+.metais_alcalinos {
+    background-color:rgb(240, 90, 20);
+}
+
+table{
+        width: 98vw;
+        height: 90vh;
+}
+
+.nao_metais{
+
+    background-color:rgb(120, 231, 120);
+}
+
+.border{border-style: solid;
+        border-width: 1px;
+} 
+
+.metais_terrosos{ 
+
+    background-color:rgb(230, 230, 73);
+}
+
+.gases_nobres{
+    background-color:rgb(84, 163, 228);
+}
+
+.metais_transicao{
+
+    background-color: rgb(252, 14, 14);
+}
+
+.outros_metais{
+
+    background-color: rgb(166, 181, 209);
+}
+
+.semimetais{
+
+    background-color: rgb(94, 168, 24);
+}
+
+.halogenio{
+
+    background-color: rgb(147, 219, 243);
+}
+
+.lantanideos{
+
+    background-color: rgba(66, 236, 179, 0.767);
+}
+
+.actinidio{
+
+    background-color: rgb(221, 19, 221);
+}
+
+.legenda {
+ display: flex;
+ gap: 10px;
+ margin: 35px;   
+}
+
+.Qnaometal {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(120, 231, 120);
+    border: solid 2px black;
+}
+
+.Qmetalcalino {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(240, 90, 20);
+    border: solid 2px black;
+}
+
+.Qsemimetais {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(94, 168, 24);
+    border: solid 2px black;
+}
+
+.Qoutrosmetais {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(94, 168, 24);
+    border: solid 2px black;
+}
+
+.Qlantanideos {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgba(66, 236, 179, 0.767);
+    border: 2px solid black;
+}
+
+.legenda2 {
+    display: flex;
+ gap: 10px;
+ margin: 35px;   
+}
+
+.QGasesnobres {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(84, 163, 228);
+    border: 2px solid black;
+}
+
+.QMetaisalcalinosterrosos {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(230, 230, 73);
+    border: 2px solid black;
+}
+
+.Qhalogenio {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(147, 219, 243);
+    border: solid 2px black;
+}
+
+.QMetaisdetransicao {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(252, 14, 14);
+    border: solid 2px black;
+}
+
+.QActinideos {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(221, 19, 221);
+    border: 2px solid black;
+}
